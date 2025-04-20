@@ -4,11 +4,11 @@
 
 to answer, to respond
 
-отвечать + на + <[accusative](#Accusative)>
+отвечать + на + \<[accusative](../Cases/Accusative.md)\>
 
 ## Играть
 
 to play
 
-see [Играть](to_play.md)
+see [Играть](./to_play.md)
 

@@ -4,7 +4,7 @@
 
 Use this form when you are talking about playing an instrument.
 
-Form: играть на + [prepositional case](#Prepositional.md)
+Form: играть на + [prepositional case](../Cases/Prepositional.md)
 
 ### Examples
 
@@ -16,7 +16,7 @@ Form: играть на + [prepositional case](#Prepositional.md)
 
 Use this form when you are talking about playing a game or sport.
 
-Form: играть в + [accusative case](#Accusative.md)
+Form: играть в + [accusative case](../Cases/Accusative.md)
 
 ### Examples
 
