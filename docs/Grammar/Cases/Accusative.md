@@ -1,4 +1,10 @@
+---
+sidebar_position: 2
+---
+
 # Accusative
+
+## When to use the accusative case
 
 * Direct object of a verb
 

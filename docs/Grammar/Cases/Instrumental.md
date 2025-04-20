@@ -1,22 +1,17 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
-# Genitive
+# Instrumental
 
-## When to use the genitive case
+## When to use the instrumental case
 
-1. When you're talking about **amounts**
-    * One cat, two cats, five cats
-    * Один кот, два кота, пять котов
-2. For **negations**
-    * There is no cat
-    * Нет кота
-3. When you're talking about **possession**
-    * This is my cat
-    * Это мой кот
-    * My friend's cat
-    * моего друга Кот 
+1. To indicate the means by which an action is performed.
+    * I write with a pen
+    * Я пишу ручкой
+2. To indicate the person or thing with which something is done
+    * I go with my friend
+    * Я иду с другом
 
 ## Nouns
 

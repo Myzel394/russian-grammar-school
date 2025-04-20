@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Nominative Case
 
 * Base form of a noun

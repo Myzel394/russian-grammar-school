@@ -1,4 +1,10 @@
+---
+sidebar_position: 3
+---
+
 # Dative
+
+## When to use the dative case
 
 * Indirect object of a verb
 
