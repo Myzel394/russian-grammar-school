@@ -41,6 +41,16 @@ sidebar_position: 4
 |                            | -ь -> -ей                                              |          |
 
 
+## Pronouns
+
+I have = У меня есть
+You have = У тебя есть
+He has = У него есть
+She has = У неё есть
+We have = У нас есть
+You have (plural) = У вас есть
+They have = У них есть
+
 ## Examples
 
 I don't have a cat
