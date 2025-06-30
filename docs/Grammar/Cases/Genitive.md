@@ -17,6 +17,14 @@ sidebar_position: 4
     * Это мой кот
     * My friend's cat
     * моего друга Кот 
+4. After certain prepositions
+    * у (at, by)
+    * от (from)
+    * до (until, till)
+    * кроме (except)
+    * после (after)
+    * для (for)
+    * из (from, out of)
 
 ## Nouns
 
@@ -43,13 +51,13 @@ sidebar_position: 4
 
 ## Pronouns
 
-I have = У меня есть
-You have = У тебя есть
-He has = У него есть
-She has = У неё есть
-We have = У нас есть
-You have (plural) = У вас есть
-They have = У них есть
+* I have = У меня есть
+* You have = У тебя есть
+* He has = У него есть
+* She has = У неё есть
+* We have = У нас есть
+* You have (plural) = У вас есть
+* They have = У них есть
 
 ## Examples
 
