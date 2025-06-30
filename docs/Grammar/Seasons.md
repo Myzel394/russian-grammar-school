@@ -2,16 +2,20 @@
 
 >[info] You do not use В when talking about seasons!
 
-Spring = Весна
+**Spring** = Весна
+
 In spring = Весной
 
-Sommer = Лето
+**Sommer** = Лето
+
 In sommer = Летом
 
-Fall = Осень
+**Fall** = Осень
+
 In fall = Осенью
 
-Winter = Зима 
+**Winter** = Зима 
+
 In winter = Зимой
 
 ## Months
